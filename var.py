@@ -13,3 +13,11 @@ print(f"hello {firt_name}");
 #these are integers
 id=10
 print("your id is",id);
+print(f"your id is {id}");#{} is a placeholder for the variable id
+#these are floats
+weight = 70.5
+print(f"your weight is {weight}");
+#these are booleans
+is_adult = age >= 18
+print(f"are you an adult? {is_adult}");
+
